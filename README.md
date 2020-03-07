@@ -19,4 +19,4 @@ Read more at https://makecode.microbit.org/extensions
 * for PXT/microbit
 (The metadata above is needed for package search.)
 
-<IMG SRC="https://github.com/agrabara/pxt-Keyboard-analog/blob/master/icon.png?raw=true">
+<IMG SRC="https://github.com/agrabara/pxt-Keyboard-analog/blob/master/ae87d1cc-dcb7-4797-9031-6f1e89bd1d90.jpg?raw=true">
